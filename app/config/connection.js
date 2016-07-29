@@ -16,10 +16,10 @@ var source = {
     },
     jawsDB: {
         port: 3306,
-        host: 'z12itfj4c1vgopf8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-        user: 'b22h4tt271ra88xa',
-        password: "aqsmivlojccy5glw",
-        database: "zveqdo7957k6ri9b"
+        host: 'q3vtafztappqbpzn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        user: 'vl75p1f07mzo4oob',
+        password: "zl93s1vyb3801cdg",
+        database: "y95bk8qprm5a8jla"
         // TODO: Add your JawsDB connection info here
     }
 }
